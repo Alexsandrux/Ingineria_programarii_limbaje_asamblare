@@ -6,3 +6,11 @@ C:\Users\Zen\Desktop\An1_Master_Sem2\Ingineria programarii si limbaje de asambla
 C:\Users\Zen\Desktop\An1_Master_Sem2\Ingineria programarii si limbaje de asamblare\Cursuri\Curs1\Curs1\Curs1\obj\Debug\Curs1.csproj.CoreCompileInputs.cache
 C:\Users\Zen\Desktop\An1_Master_Sem2\Ingineria programarii si limbaje de asamblare\Cursuri\Curs1\Curs1\Curs1\obj\Debug\Curs1.exe
 C:\Users\Zen\Desktop\An1_Master_Sem2\Ingineria programarii si limbaje de asamblare\Cursuri\Curs1\Curs1\Curs1\obj\Debug\Curs1.pdb
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Curs1\Curs1\Curs1\bin\Debug\Curs1.exe.config
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Curs1\Curs1\Curs1\bin\Debug\Curs1.exe
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Curs1\Curs1\Curs1\bin\Debug\Curs1.pdb
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Curs1\Curs1\Curs1\obj\Debug\Curs1.csproj.AssemblyReference.cache
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Curs1\Curs1\Curs1\obj\Debug\Curs1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Curs1\Curs1\Curs1\obj\Debug\Curs1.csproj.CoreCompileInputs.cache
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Curs1\Curs1\Curs1\obj\Debug\Curs1.exe
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Curs1\Curs1\Curs1\obj\Debug\Curs1.pdb

@@ -10,8 +10,8 @@ namespace Curs1
     class Op_bancara
     {
         DateTime dataOp; // oriunde apare "Op" = operatie
-        int suma;
-        char tipOperatie;
+        public int suma;
+        public char tipOperatie;
 
         public Op_bancara(int suma, char tipOperatie)
         {
@@ -68,7 +68,7 @@ namespace Curs1
             dataNasterii = DateTime.Parse(anul.ToString() + "-" + luna.ToString() + "-" + ziua.ToString());
         }
 
-        string IDateFinanciare.Iban { get { return iban; } set { } }
+        string IDateFinanciare.Iban { get { return iban; } set { iban = value; } }
 
         void IDateFinanciare.Depunere(int suma) {
             operatiiBancare.Add(new Op_bancara(suma, 'd'));
@@ -76,12 +76,21 @@ namespace Curs1
 
         public void Extragere(int suma)
         {
-            throw new NotImplementedException();
+            operatiiBancare.Add(new Op_bancara(suma, 'e'));
         }
 
-        public int getSold()
+        int IDateFinanciare.getSold()
         {
-            throw new NotImplementedException();
+            int totalSumeDepuse = 0;
+            int totalSumeExtrase = 0;
+            foreach (Op_bancara operatiune in operatiiBancare)
+            {
+                if (operatiune.tipOperatie == 'd')
+                    totalSumeDepuse += operatiune.suma;
+                else totalSumeExtrase += operatiune.suma;
+            }
+
+            return soldInitial + totalSumeDepuse - totalSumeExtrase;
         }
     }
 }
