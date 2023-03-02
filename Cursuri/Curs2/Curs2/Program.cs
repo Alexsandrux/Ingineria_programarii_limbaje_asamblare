@@ -68,9 +68,11 @@ namespace Curs2
     {
         int x;
 
-        public delegate void del_functie(); // delegate functie
+        //public delegate void del_functie(); // delegate functie
 
-        public event del_functie evenimentSchimba;
+        //public event del_functie evenimentSchimba;
+
+        public event Action evenimentSchimba; // delegat prestabilit
 
         public Element()
         {
