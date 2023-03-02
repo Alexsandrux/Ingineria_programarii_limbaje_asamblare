@@ -1,0 +1,15 @@
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Curs2\Curs2\bin\Debug\net6.0\Curs2.exe
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Curs2\Curs2\bin\Debug\net6.0\Curs2.deps.json
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Curs2\Curs2\bin\Debug\net6.0\Curs2.runtimeconfig.json
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Curs2\Curs2\bin\Debug\net6.0\Curs2.dll
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Curs2\Curs2\bin\Debug\net6.0\Curs2.pdb
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Curs2\Curs2\obj\Debug\net6.0\Curs2.csproj.AssemblyReference.cache
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Curs2\Curs2\obj\Debug\net6.0\Curs2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Curs2\Curs2\obj\Debug\net6.0\Curs2.AssemblyInfoInputs.cache
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Curs2\Curs2\obj\Debug\net6.0\Curs2.AssemblyInfo.cs
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Curs2\Curs2\obj\Debug\net6.0\Curs2.csproj.CoreCompileInputs.cache
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Curs2\Curs2\obj\Debug\net6.0\Curs2.dll
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Curs2\Curs2\obj\Debug\net6.0\refint\Curs2.dll
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Curs2\Curs2\obj\Debug\net6.0\Curs2.pdb
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Curs2\Curs2\obj\Debug\net6.0\Curs2.genruntimeconfig.cache
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Curs2\Curs2\obj\Debug\net6.0\ref\Curs2.dll
