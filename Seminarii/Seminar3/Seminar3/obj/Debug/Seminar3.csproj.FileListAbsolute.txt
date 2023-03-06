@@ -1,0 +1,12 @@
+C:\Users\Zen\Desktop\An1_Master_Sem2\Ingineria programarii si limbaje de asamblare\Seminarii\Seminar3\Seminar3\bin\Debug\Seminar3.exe.config
+C:\Users\Zen\Desktop\An1_Master_Sem2\Ingineria programarii si limbaje de asamblare\Seminarii\Seminar3\Seminar3\bin\Debug\Seminar3.exe
+C:\Users\Zen\Desktop\An1_Master_Sem2\Ingineria programarii si limbaje de asamblare\Seminarii\Seminar3\Seminar3\bin\Debug\Seminar3.pdb
+C:\Users\Zen\Desktop\An1_Master_Sem2\Ingineria programarii si limbaje de asamblare\Seminarii\Seminar3\Seminar3\obj\Debug\Seminar3.csproj.AssemblyReference.cache
+C:\Users\Zen\Desktop\An1_Master_Sem2\Ingineria programarii si limbaje de asamblare\Seminarii\Seminar3\Seminar3\obj\Debug\Seminar3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zen\Desktop\An1_Master_Sem2\Ingineria programarii si limbaje de asamblare\Seminarii\Seminar3\Seminar3\obj\Debug\Seminar3.Form1.resources
+C:\Users\Zen\Desktop\An1_Master_Sem2\Ingineria programarii si limbaje de asamblare\Seminarii\Seminar3\Seminar3\obj\Debug\Seminar3.Properties.Resources.resources
+C:\Users\Zen\Desktop\An1_Master_Sem2\Ingineria programarii si limbaje de asamblare\Seminarii\Seminar3\Seminar3\obj\Debug\Seminar3.csproj.GenerateResource.cache
+C:\Users\Zen\Desktop\An1_Master_Sem2\Ingineria programarii si limbaje de asamblare\Seminarii\Seminar3\Seminar3\obj\Debug\Seminar3.csproj.CoreCompileInputs.cache
+C:\Users\Zen\Desktop\An1_Master_Sem2\Ingineria programarii si limbaje de asamblare\Seminarii\Seminar3\Seminar3\obj\Debug\Seminar3.exe
+C:\Users\Zen\Desktop\An1_Master_Sem2\Ingineria programarii si limbaje de asamblare\Seminarii\Seminar3\Seminar3\obj\Debug\Seminar3.pdb
+C:\Users\Zen\Desktop\An1_Master_Sem2\Ingineria programarii si limbaje de asamblare\Seminarii\Seminar3\Seminar3\obj\Debug\Seminar3.Form2.resources
