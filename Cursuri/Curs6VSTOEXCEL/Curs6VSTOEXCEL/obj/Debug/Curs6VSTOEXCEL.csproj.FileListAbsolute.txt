@@ -1,0 +1,13 @@
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Curs6VSTOEXCEL\Curs6VSTOEXCEL\bin\Debug\Curs6VSTOEXCEL.dll
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Curs6VSTOEXCEL\Curs6VSTOEXCEL\bin\Debug\Curs6VSTOEXCEL.pdb
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Curs6VSTOEXCEL\Curs6VSTOEXCEL\bin\Debug\Curs6VSTOEXCEL.dll.manifest
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Curs6VSTOEXCEL\Curs6VSTOEXCEL\bin\Debug\Curs6VSTOEXCEL.vsto
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Curs6VSTOEXCEL\Curs6VSTOEXCEL\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Curs6VSTOEXCEL\Curs6VSTOEXCEL\obj\Debug\Curs6VSTOEXCEL.csproj.AssemblyReference.cache
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Curs6VSTOEXCEL\Curs6VSTOEXCEL\obj\Debug\Curs6VSTOEXCEL.Properties.Resources.resources
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Curs6VSTOEXCEL\Curs6VSTOEXCEL\obj\Debug\Curs6VSTOEXCEL.Ribbon1.resources
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Curs6VSTOEXCEL\Curs6VSTOEXCEL\obj\Debug\Curs6VSTOEXCEL.csproj.GenerateResource.cache
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Curs6VSTOEXCEL\Curs6VSTOEXCEL\obj\Debug\Curs6VSTOEXCEL.csproj.CoreCompileInputs.cache
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Curs6VSTOEXCEL\Curs6VSTOEXCEL\obj\Debug\Curs6VSTOEXCEL.csproj.CopyComplete
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Curs6VSTOEXCEL\Curs6VSTOEXCEL\obj\Debug\Curs6VSTOEXCEL.dll
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Curs6VSTOEXCEL\Curs6VSTOEXCEL\obj\Debug\Curs6VSTOEXCEL.pdb

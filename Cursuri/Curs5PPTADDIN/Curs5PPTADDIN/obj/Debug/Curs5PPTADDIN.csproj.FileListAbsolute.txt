@@ -1,0 +1,13 @@
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Curs5PPTADDIN\Curs5PPTADDIN\bin\Debug\Curs5PPTADDIN.dll
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Curs5PPTADDIN\Curs5PPTADDIN\bin\Debug\Curs5PPTADDIN.pdb
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Curs5PPTADDIN\Curs5PPTADDIN\bin\Debug\Curs5PPTADDIN.dll.manifest
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Curs5PPTADDIN\Curs5PPTADDIN\bin\Debug\Curs5PPTADDIN.vsto
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Curs5PPTADDIN\Curs5PPTADDIN\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Curs5PPTADDIN\Curs5PPTADDIN\obj\Debug\Curs5PPTADDIN.csproj.AssemblyReference.cache
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Curs5PPTADDIN\Curs5PPTADDIN\obj\Debug\Curs5PPTADDIN.Properties.Resources.resources
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Curs5PPTADDIN\Curs5PPTADDIN\obj\Debug\Curs5PPTADDIN.csproj.GenerateResource.cache
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Curs5PPTADDIN\Curs5PPTADDIN\obj\Debug\Curs5PPTADDIN.csproj.CoreCompileInputs.cache
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Curs5PPTADDIN\Curs5PPTADDIN\obj\Debug\Curs5PPTADDIN.csproj.CopyComplete
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Curs5PPTADDIN\Curs5PPTADDIN\obj\Debug\Curs5PPTADDIN.dll
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Curs5PPTADDIN\Curs5PPTADDIN\obj\Debug\Curs5PPTADDIN.pdb
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Curs5PPTADDIN\Curs5PPTADDIN\obj\Debug\Curs5PPTADDIN.Ribbon1.resources

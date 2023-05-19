@@ -1,0 +1,14 @@
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Seminar6ExcelAddin\Seminar6ExcelAddin\bin\Debug\Seminar6ExcelAddin.dll
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Seminar6ExcelAddin\Seminar6ExcelAddin\bin\Debug\Seminar6ExcelAddin.pdb
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Seminar6ExcelAddin\Seminar6ExcelAddin\bin\Debug\Seminar6ExcelAddin.dll.manifest
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Seminar6ExcelAddin\Seminar6ExcelAddin\bin\Debug\Seminar6ExcelAddin.vsto
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Seminar6ExcelAddin\Seminar6ExcelAddin\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Seminar6ExcelAddin\Seminar6ExcelAddin\obj\Debug\Seminar6ExcelAddin.csproj.AssemblyReference.cache
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Seminar6ExcelAddin\Seminar6ExcelAddin\obj\Debug\Seminar6ExcelAddin.FormDimensiune.resources
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Seminar6ExcelAddin\Seminar6ExcelAddin\obj\Debug\Seminar6ExcelAddin.Properties.Resources.resources
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Seminar6ExcelAddin\Seminar6ExcelAddin\obj\Debug\Seminar6ExcelAddin.Ribbon1.resources
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Seminar6ExcelAddin\Seminar6ExcelAddin\obj\Debug\Seminar6ExcelAddin.csproj.GenerateResource.cache
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Seminar6ExcelAddin\Seminar6ExcelAddin\obj\Debug\Seminar6ExcelAddin.csproj.CoreCompileInputs.cache
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Seminar6ExcelAddin\Seminar6ExcelAddin\obj\Debug\Seminar6ExcelAddin.csproj.CopyComplete
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Seminar6ExcelAddin\Seminar6ExcelAddin\obj\Debug\Seminar6ExcelAddin.dll
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Seminar6ExcelAddin\Seminar6ExcelAddin\obj\Debug\Seminar6ExcelAddin.pdb

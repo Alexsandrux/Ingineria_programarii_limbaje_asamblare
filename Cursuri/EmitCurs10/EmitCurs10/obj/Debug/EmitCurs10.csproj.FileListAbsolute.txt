@@ -1,0 +1,8 @@
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\EmitCurs10\EmitCurs10\bin\Debug\EmitCurs10.exe.config
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\EmitCurs10\EmitCurs10\bin\Debug\EmitCurs10.exe
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\EmitCurs10\EmitCurs10\bin\Debug\EmitCurs10.pdb
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\EmitCurs10\EmitCurs10\obj\Debug\EmitCurs10.csproj.AssemblyReference.cache
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\EmitCurs10\EmitCurs10\obj\Debug\EmitCurs10.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\EmitCurs10\EmitCurs10\obj\Debug\EmitCurs10.csproj.CoreCompileInputs.cache
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\EmitCurs10\EmitCurs10\obj\Debug\EmitCurs10.exe
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\EmitCurs10\EmitCurs10\obj\Debug\EmitCurs10.pdb

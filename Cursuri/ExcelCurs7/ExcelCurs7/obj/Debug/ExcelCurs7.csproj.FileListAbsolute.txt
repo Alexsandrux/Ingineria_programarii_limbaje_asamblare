@@ -1,0 +1,14 @@
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\ExcelCurs7\ExcelCurs7\bin\Debug\ExcelCurs7.dll
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\ExcelCurs7\ExcelCurs7\bin\Debug\ExcelCurs7.pdb
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\ExcelCurs7\ExcelCurs7\bin\Debug\ExcelCurs7.dll.manifest
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\ExcelCurs7\ExcelCurs7\bin\Debug\ExcelCurs7.vsto
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\ExcelCurs7\ExcelCurs7\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\ExcelCurs7\ExcelCurs7\obj\Debug\ExcelCurs7.csproj.AssemblyReference.cache
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\ExcelCurs7\ExcelCurs7\obj\Debug\ExcelCurs7.Form1.resources
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\ExcelCurs7\ExcelCurs7\obj\Debug\ExcelCurs7.Properties.Resources.resources
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\ExcelCurs7\ExcelCurs7\obj\Debug\ExcelCurs7.Ribbon1.resources
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\ExcelCurs7\ExcelCurs7\obj\Debug\ExcelCurs7.csproj.GenerateResource.cache
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\ExcelCurs7\ExcelCurs7\obj\Debug\ExcelCurs7.csproj.CoreCompileInputs.cache
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\ExcelCurs7\ExcelCurs7\obj\Debug\ExcelCurs7.csproj.CopyComplete
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\ExcelCurs7\ExcelCurs7\obj\Debug\ExcelCurs7.dll
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\ExcelCurs7\ExcelCurs7\obj\Debug\ExcelCurs7.pdb

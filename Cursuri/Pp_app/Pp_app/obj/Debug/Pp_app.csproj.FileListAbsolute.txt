@@ -1,0 +1,11 @@
+E:\IPLA_22_23\Pp_app\Pp_app\bin\Debug\Pp_app.exe.config
+E:\IPLA_22_23\Pp_app\Pp_app\bin\Debug\Pp_app.exe
+E:\IPLA_22_23\Pp_app\Pp_app\bin\Debug\Pp_app.pdb
+E:\IPLA_22_23\Pp_app\Pp_app\obj\Debug\Pp_app.csproj.AssemblyReference.cache
+E:\IPLA_22_23\Pp_app\Pp_app\obj\Debug\Pp_app.csproj.SuggestedBindingRedirects.cache
+E:\IPLA_22_23\Pp_app\Pp_app\obj\Debug\Pp_app.Form1.resources
+E:\IPLA_22_23\Pp_app\Pp_app\obj\Debug\Pp_app.Properties.Resources.resources
+E:\IPLA_22_23\Pp_app\Pp_app\obj\Debug\Pp_app.csproj.GenerateResource.cache
+E:\IPLA_22_23\Pp_app\Pp_app\obj\Debug\Pp_app.csproj.CoreCompileInputs.cache
+E:\IPLA_22_23\Pp_app\Pp_app\obj\Debug\Pp_app.exe
+E:\IPLA_22_23\Pp_app\Pp_app\obj\Debug\Pp_app.pdb

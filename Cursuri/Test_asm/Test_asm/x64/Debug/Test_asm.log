@@ -1,0 +1,24 @@
+﻿  Source.cpp
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Test_asm\Test_asm\Source.cpp(3,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Test_asm\Test_asm\Source.cpp(6,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Test_asm\Test_asm\Source.cpp(8,3): error C2065: 'mov': undeclared identifier
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Test_asm\Test_asm\Source.cpp(8,7): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Test_asm\Test_asm\Source.cpp(8,7): error C2065: 'eax': undeclared identifier
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Test_asm\Test_asm\Source.cpp(9,3): error C2065: 'add': undeclared identifier
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Test_asm\Test_asm\Source.cpp(9,7): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Test_asm\Test_asm\Source.cpp(9,7): error C2065: 'eax': undeclared identifier
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Test_asm\Test_asm\Source.cpp(10,3): error C2065: 'mov': undeclared identifier
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Test_asm\Test_asm\Source.cpp(10,7): error C2146: syntax error: missing ';' before identifier 's'
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Test_asm\Test_asm\Source.cpp(10,10): error C2065: 'eax': undeclared identifier
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Test_asm\Test_asm\Source.cpp(12,3): error C2065: 'mov': undeclared identifier
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Test_asm\Test_asm\Source.cpp(12,7): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Test_asm\Test_asm\Source.cpp(12,7): error C2065: 'eax': undeclared identifier
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Test_asm\Test_asm\Source.cpp(13,3): error C2065: 'cdq': undeclared identifier
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Test_asm\Test_asm\Source.cpp(14,3): error C2065: 'div': undeclared identifier
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Test_asm\Test_asm\Source.cpp(14,7): error C2146: syntax error: missing ';' before identifier 'b'
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Test_asm\Test_asm\Source.cpp(15,3): error C2065: 'mov': undeclared identifier
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Test_asm\Test_asm\Source.cpp(15,7): error C2146: syntax error: missing ';' before identifier 'c'
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Test_asm\Test_asm\Source.cpp(15,10): error C2065: 'eax': undeclared identifier
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Test_asm\Test_asm\Source.cpp(16,3): error C2065: 'mov': undeclared identifier
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Test_asm\Test_asm\Source.cpp(16,7): error C2146: syntax error: missing ';' before identifier 'r'
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Cursuri\Test_asm\Test_asm\Source.cpp(16,10): error C2065: 'edx': undeclared identifier
