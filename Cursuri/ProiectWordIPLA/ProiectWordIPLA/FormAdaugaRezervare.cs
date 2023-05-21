@@ -72,15 +72,20 @@ namespace ProiectWordIPLA
                 ","+ comboBoxCamere.Text +
                 ",CONVERT(datetime, '" + dateTimePicker1.Text + "',101))";
             
-            con.Open();
+            try
+            {
+                con.Open();
 
-            SqlCommand cinsert = new SqlCommand(sinsert, con);
+                SqlCommand cinsert = new SqlCommand(sinsert, con);
 
-            cinsert.ExecuteNonQuery();
+                cinsert.ExecuteNonQuery();
 
-            con.Close();
+                con.Close();
 
-            MessageBox.Show("O noua rezervare a fost adaugata pentru clientul ales.");
+                MessageBox.Show("O noua rezervare a fost adaugata pentru clientul ales.");
+
+            } catch { MessageBox.Show("Eroare la adaugare in baza de date"); }
+
 
         }
 

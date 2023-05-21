@@ -50,28 +50,43 @@ namespace ProiectWordIPLA
             SqlCommand command;
             SqlDataReader dataReader;
             String sql;
-            con.Open();
+            
 
-            sql = "select * from Rezervari where idClient = " + idClient;
-
-            command = new SqlCommand(sql, con);
-
-            dataReader = command.ExecuteReader();
-
-            while(dataReader.Read())
+            try
             {
+                con.Open();
 
-                int id = dataReader.GetInt32(0);
-                int idC = dataReader.GetInt32(1);
-                float val = (float) dataReader.GetDouble(2);
-                int nrCamera = dataReader.GetInt32(3);
+                sql = "select * from Rezervari where idClient = " + idClient;
 
-                DateTime d = dataReader.GetDateTime(4);
+                command = new SqlCommand(sql, con);
 
-                rezervari.Add(new Rezervare(id, idC, nrCamera, val, d));
-            }
+                dataReader = command.ExecuteReader();
 
-            con.Close();
+                while (dataReader.Read())
+                {
+                    try
+                    {
+                        int id = dataReader.GetInt32(0);
+                        int idC = dataReader.GetInt32(1);
+                        float val = (float)dataReader.GetDouble(2);
+                        int nrCamera = dataReader.GetInt32(3);
+
+                        DateTime d = dataReader.GetDateTime(4);
+
+                        rezervari.Add(new Rezervare(id, idC, nrCamera, val, d));
+
+                    }
+                    catch { MessageBox.Show("Eroare la parsare"); }
+
+
+                }
+
+                con.Close();
+
+            } catch (Exception ex) { MessageBox.Show(ex.StackTrace); }
+
+
+            
 
             sheet.Cells[1, 1] = 
                 dataGridViewClienti.SelectedRows[0].Cells[1].Value + 

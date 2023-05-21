@@ -12,6 +12,7 @@ using Word = Microsoft.Office.Interop.Word;
 using Excel = Microsoft.Office.Interop.Excel;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.Rebar;
 using System.Data.SqlClient;
+using System.Text.RegularExpressions;
 
 namespace ProiectWordIPLA
 {
@@ -49,19 +50,77 @@ namespace ProiectWordIPLA
         {
             SqlConnection con = new SqlConnection(connectionString);
 
+            if (richTextNume.Text == null)
+            {
+                MessageBox.Show("Numele nu poate fi gol");
+                return;
+            }
+            if (richTextPrenume.Text == null)
+            {
+                MessageBox.Show("Prenumele nu poate fi gol");
+                return;
+            }
+            if (richTextEmail.Text == null)
+            {
+                MessageBox.Show("Email-ul nu poate fi gol");
+                return;
+            }
+            if (richTexTelefon.Text == null)
+            {
+                MessageBox.Show("Telefonul nu poate fi gol");
+                return;
+            }
+
+            if (richTextNume.Text.Equals("NUME"))
+            {
+                MessageBox.Show("Numele trebuie sa fie completat");
+                return;
+            }
+            if (richTextPrenume.Text.Equals("PRENUME"))
+            {
+                MessageBox.Show("Prenumele trebuie sa fie completat");
+                return;
+            }
+            if (richTexTelefon.Text.Equals("TELEFON"))
+            {
+                MessageBox.Show("Telefonul trebuie sa fie completat");
+                return;
+            }
+            if (richTextEmail.Text.Equals("E-MAIL"))
+            {
+                MessageBox.Show("E-mailul trebuie sa fie completat");
+                return;
+            }
+            if (!Regex.IsMatch(richTextEmail.Text, @"^[^@\s]+@[^@\s]+\.(com|net|org|gov)$"))
+            {
+                MessageBox.Show("Acesta nu este un format de e-mail acceptat!");
+                return;
+            }
+            if (!Regex.IsMatch(richTexTelefon.Text, @"^0(\d{9})$") )
+            {
+                MessageBox.Show("Acesta nu este un format de telefon acceptat!");
+                return;
+            }
+
             string sinsert = @"INSERT INTO Clienti(Nume, Prenume, Email, Telefon) VALUES"
                         + " ('" + richTextNume.Text + "','" + richTextPrenume.Text + "','" + richTextEmail.Text + "','" + richTexTelefon.Text + "')";
 
-            con.Open();
+            try
+            {
+                con.Open();
 
-            SqlCommand cinsert = new SqlCommand(sinsert, con);
+                SqlCommand cinsert = new SqlCommand(sinsert, con);
 
-            cinsert.ExecuteNonQuery();
+                cinsert.ExecuteNonQuery();
 
-            con.Close();
+                con.Close();
 
-            MessageBox.Show("Noul client a fost adăugat în tabelă.");
+                MessageBox.Show("Noul client a fost adăugat în tabelă.");
+
+            } catch { MessageBox.Show("Eroare la citire din baza de date!"); }
+
         }
+
 
         public void adaugaRezervareNouA(object sender, EventArgs e)
         {
