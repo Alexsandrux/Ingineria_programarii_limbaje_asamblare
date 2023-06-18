@@ -1,0 +1,11 @@
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\1_eveniment_delegate\1_eveniment_delegate\bin\Debug\1_eveniment_delegate.exe.config
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\1_eveniment_delegate\1_eveniment_delegate\bin\Debug\1_eveniment_delegate.exe
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\1_eveniment_delegate\1_eveniment_delegate\bin\Debug\1_eveniment_delegate.pdb
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\1_eveniment_delegate\1_eveniment_delegate\obj\Debug\1_eveniment_delegate.csproj.AssemblyReference.cache
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\1_eveniment_delegate\1_eveniment_delegate\obj\Debug\1_eveniment_delegate.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\1_eveniment_delegate\1_eveniment_delegate\obj\Debug\1_eveniment_delegate.csproj.CoreCompileInputs.cache
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\1_eveniment_delegate\1_eveniment_delegate\obj\Debug\1_eveniment_delegate.exe
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\1_eveniment_delegate\1_eveniment_delegate\obj\Debug\1_eveniment_delegate.pdb
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\1_eveniment_delegate\1_eveniment_delegate\obj\Debug\_1_eveniment_delegate.Forms.Form1.resources
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\1_eveniment_delegate\1_eveniment_delegate\obj\Debug\1_eveniment_delegate.csproj.GenerateResource.cache
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\1_eveniment_delegate\1_eveniment_delegate\obj\Debug\_1_eveniment_delegate.Forms.Form2.resources
