@@ -12,5 +12,11 @@ namespace _3_excelAddin
         {
 
         }
+
+        private void button1_Click(object sender, RibbonControlEventArgs e)
+        {
+            Form1 form1 = new Form1();
+            form1.Show();
+        }
     }
 }

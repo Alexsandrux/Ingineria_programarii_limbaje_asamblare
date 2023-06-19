@@ -1,0 +1,8 @@
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\4_reflection_emit\4_reflection_emit\bin\Debug\4_reflection_emit.exe.config
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\4_reflection_emit\4_reflection_emit\bin\Debug\4_reflection_emit.exe
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\4_reflection_emit\4_reflection_emit\bin\Debug\4_reflection_emit.pdb
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\4_reflection_emit\4_reflection_emit\obj\Debug\4_reflection_emit.csproj.AssemblyReference.cache
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\4_reflection_emit\4_reflection_emit\obj\Debug\4_reflection_emit.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\4_reflection_emit\4_reflection_emit\obj\Debug\4_reflection_emit.csproj.CoreCompileInputs.cache
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\4_reflection_emit\4_reflection_emit\obj\Debug\4_reflection_emit.exe
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\4_reflection_emit\4_reflection_emit\obj\Debug\4_reflection_emit.pdb

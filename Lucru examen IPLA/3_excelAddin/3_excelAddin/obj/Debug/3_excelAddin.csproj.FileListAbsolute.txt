@@ -11,3 +11,4 @@ C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje 
 C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\3_excelAddin\3_excelAddin\obj\Debug\3_excelAddin.csproj.CopyComplete
 C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\3_excelAddin\3_excelAddin\obj\Debug\3_excelAddin.dll
 C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\3_excelAddin\3_excelAddin\obj\Debug\3_excelAddin.pdb
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\3_excelAddin\3_excelAddin\obj\Debug\_3_excelAddin.Form1.resources
