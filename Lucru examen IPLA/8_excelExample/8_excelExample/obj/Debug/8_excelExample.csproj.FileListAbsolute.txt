@@ -1,0 +1,10 @@
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\8_excelExample\8_excelExample\bin\Debug\8_excelExample.exe.config
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\8_excelExample\8_excelExample\bin\Debug\8_excelExample.exe
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\8_excelExample\8_excelExample\bin\Debug\8_excelExample.pdb
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\8_excelExample\8_excelExample\obj\Debug\8_excelExample.csproj.AssemblyReference.cache
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\8_excelExample\8_excelExample\obj\Debug\8_excelExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\8_excelExample\8_excelExample\obj\Debug\_8_excelExample.Forms.Form1.resources
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\8_excelExample\8_excelExample\obj\Debug\8_excelExample.csproj.GenerateResource.cache
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\8_excelExample\8_excelExample\obj\Debug\8_excelExample.csproj.CoreCompileInputs.cache
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\8_excelExample\8_excelExample\obj\Debug\8_excelExample.exe
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\8_excelExample\8_excelExample\obj\Debug\8_excelExample.pdb
