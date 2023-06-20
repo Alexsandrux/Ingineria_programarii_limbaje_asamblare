@@ -1,0 +1,14 @@
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\6_excelAddin\6_excelAddin\bin\Debug\6_excelAddin.dll
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\6_excelAddin\6_excelAddin\bin\Debug\6_excelAddin.pdb
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\6_excelAddin\6_excelAddin\bin\Debug\6_excelAddin.dll.manifest
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\6_excelAddin\6_excelAddin\bin\Debug\6_excelAddin.vsto
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\6_excelAddin\6_excelAddin\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\6_excelAddin\6_excelAddin\obj\Debug\6_excelAddin.csproj.AssemblyReference.cache
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\6_excelAddin\6_excelAddin\obj\Debug\_6_excelAddin.Form1.resources
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\6_excelAddin\6_excelAddin\obj\Debug\_6_excelAddin.Properties.Resources.resources
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\6_excelAddin\6_excelAddin\obj\Debug\_6_excelAddin.Ribbon1.resources
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\6_excelAddin\6_excelAddin\obj\Debug\6_excelAddin.csproj.GenerateResource.cache
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\6_excelAddin\6_excelAddin\obj\Debug\6_excelAddin.csproj.CoreCompileInputs.cache
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\6_excelAddin\6_excelAddin\obj\Debug\6_excelAddin.csproj.CopyComplete
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\6_excelAddin\6_excelAddin\obj\Debug\6_excelAddin.dll
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\6_excelAddin\6_excelAddin\obj\Debug\6_excelAddin.pdb

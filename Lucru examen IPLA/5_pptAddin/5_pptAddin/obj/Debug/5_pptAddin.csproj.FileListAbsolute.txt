@@ -1,0 +1,14 @@
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\5_pptAddin\5_pptAddin\bin\Debug\5_pptAddin.dll
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\5_pptAddin\5_pptAddin\bin\Debug\5_pptAddin.pdb
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\5_pptAddin\5_pptAddin\bin\Debug\5_pptAddin.dll.manifest
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\5_pptAddin\5_pptAddin\bin\Debug\5_pptAddin.vsto
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\5_pptAddin\5_pptAddin\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\5_pptAddin\5_pptAddin\obj\Debug\5_pptAddin.csproj.AssemblyReference.cache
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\5_pptAddin\5_pptAddin\obj\Debug\_5_pptAddin.Properties.Resources.resources
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\5_pptAddin\5_pptAddin\obj\Debug\_5_pptAddin.Ribbon1.resources
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\5_pptAddin\5_pptAddin\obj\Debug\5_pptAddin.csproj.GenerateResource.cache
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\5_pptAddin\5_pptAddin\obj\Debug\5_pptAddin.csproj.CoreCompileInputs.cache
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\5_pptAddin\5_pptAddin\obj\Debug\5_pptAddin.csproj.CopyComplete
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\5_pptAddin\5_pptAddin\obj\Debug\5_pptAddin.dll
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\5_pptAddin\5_pptAddin\obj\Debug\5_pptAddin.pdb
+C:\Users\Zen\Desktop\An1_Master_Sem2 exercitii\Ingineria programarii si limbaje de asamblare\Lucru examen IPLA\5_pptAddin\5_pptAddin\obj\Debug\_5_pptAddin.Form1.resources
